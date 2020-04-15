@@ -1,0 +1,15 @@
+2020-04-09 15:40:25,057 - root - WARNING - logger warning message
+2020-04-09 15:40:25,058 - root - ERROR - logger error message
+2020-04-09 15:40:25,058 - root - CRITICAL - logger critical message
+2020-04-09 15:46:05,252 - root - WARNING - logger warning message
+2020-04-09 15:46:05,252 - root - ERROR - logger error message
+2020-04-09 15:46:05,252 - root - CRITICAL - logger critical message
+2020-04-09 15:46:31,469 - root - WARNING - logger warning message
+2020-04-09 15:46:31,470 - root - ERROR - 错误
+2020-04-09 15:46:31,470 - root - CRITICAL - logger critical message
+2020-04-09 15:53:58,605 - root - WARNING - logger warning message
+2020-04-09 15:53:58,605 - root - ERROR - 错误
+2020-04-09 15:53:58,605 - root - CRITICAL - logger critical message
+2020-04-09 15:54:16,269 - root - WARNING - logger warning message
+2020-04-09 15:54:16,269 - root - ERROR - 错误
+2020-04-09 15:54:16,270 - root - CRITICAL - logger critical message
